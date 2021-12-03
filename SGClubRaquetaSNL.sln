@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGClubRaquetaSNL", "SGClubRaquetaSNL\SGClubRaquetaSNL.csproj", "{B6DBADFB-2DFE-403E-AE5B-673FFE6D645F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6DBADFB-2DFE-403E-AE5B-673FFE6D645F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6DBADFB-2DFE-403E-AE5B-673FFE6D645F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6DBADFB-2DFE-403E-AE5B-673FFE6D645F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6DBADFB-2DFE-403E-AE5B-673FFE6D645F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E68B4552-5C4B-422B-BF3E-45C8FCB9D021}
+	EndGlobalSection
+EndGlobal
